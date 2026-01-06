@@ -24,7 +24,7 @@ entries:
     sources:
     - https://github.com/kubeshop/botkube
     urls:
-    - https://charts.botkube.io/botkube-v1.14.0.tgz
+    - https://dhalturin.github.io/botkube/botkube-v1.14.0.tgz
     version: v1.14.0
   - apiVersion: v1
     appVersion: v1.14.0-rc.1
@@ -49,7 +49,7 @@ entries:
     sources:
     - https://github.com/kubeshop/botkube
     urls:
-    - https://charts.botkube.io/botkube-v1.14.0-rc.1.tgz
+    - https://dhalturin.github.io/botkube/botkube-v1.14.0-rc.1.tgz
     version: v1.14.0-rc.1
   - apiVersion: v1
     appVersion: v1.13.0
@@ -74,7 +74,7 @@ entries:
     sources:
     - https://github.com/kubeshop/botkube
     urls:
-    - https://charts.botkube.io/botkube-v1.13.0.tgz
+    - https://dhalturin.github.io/botkube/botkube-v1.13.0.tgz
     version: v1.13.0
   - apiVersion: v1
     appVersion: v1.13.0-rc.1
@@ -99,7 +99,7 @@ entries:
     sources:
     - https://github.com/kubeshop/botkube
     urls:
-    - https://charts.botkube.io/botkube-v1.13.0-rc.1.tgz
+    - https://dhalturin.github.io/botkube/botkube-v1.13.0-rc.1.tgz
     version: v1.13.0-rc.1
   - apiVersion: v1
     appVersion: v1.12.0
@@ -124,7 +124,7 @@ entries:
     sources:
     - https://github.com/kubeshop/botkube
     urls:
-    - https://charts.botkube.io/botkube-v1.12.0.tgz
+    - https://dhalturin.github.io/botkube/botkube-v1.12.0.tgz
     version: v1.12.0
   - apiVersion: v1
     appVersion: v1.12.0-rc.1
@@ -149,7 +149,7 @@ entries:
     sources:
     - https://github.com/kubeshop/botkube
     urls:
-    - https://charts.botkube.io/botkube-v1.12.0-rc.1.tgz
+    - https://dhalturin.github.io/botkube/botkube-v1.12.0-rc.1.tgz
     version: v1.12.0-rc.1
   - apiVersion: v1
     appVersion: v1.11.0
@@ -176,7 +176,7 @@ entries:
     sources:
     - https://github.com/kubeshop/botkube
     urls:
-    - https://charts.botkube.io/botkube-v1.11.0.tgz
+    - https://dhalturin.github.io/botkube/botkube-v1.11.0.tgz
     version: v1.11.0
   - apiVersion: v1
     appVersion: v1.11.0-rc.1
@@ -203,7 +203,7 @@ entries:
     sources:
     - https://github.com/kubeshop/botkube
     urls:
-    - https://charts.botkube.io/botkube-v1.11.0-rc.1.tgz
+    - https://dhalturin.github.io/botkube/botkube-v1.11.0-rc.1.tgz
     version: v1.11.0-rc.1
   - apiVersion: v1
     appVersion: v1.10.0
@@ -230,7 +230,7 @@ entries:
     sources:
     - https://github.com/kubeshop/botkube
     urls:
-    - https://charts.botkube.io/botkube-v1.10.0.tgz
+    - https://dhalturin.github.io/botkube/botkube-v1.10.0.tgz
     version: v1.10.0
   - apiVersion: v1
     appVersion: v1.10.0-rc.1
@@ -257,7 +257,7 @@ entries:
     sources:
     - https://github.com/kubeshop/botkube
     urls:
-    - https://charts.botkube.io/botkube-v1.10.0-rc.1.tgz
+    - https://dhalturin.github.io/botkube/botkube-v1.10.0-rc.1.tgz
     version: v1.10.0-rc.1
   - apiVersion: v1
     appVersion: v1.9.1
@@ -284,7 +284,7 @@ entries:
     sources:
     - https://github.com/kubeshop/botkube
     urls:
-    - https://charts.botkube.io/botkube-v1.9.1.tgz
+    - https://dhalturin.github.io/botkube/botkube-v1.9.1.tgz
     version: v1.9.1
   - apiVersion: v1
     appVersion: v1.9.1-rc.1
@@ -311,7 +311,7 @@ entries:
     sources:
     - https://github.com/kubeshop/botkube
     urls:
-    - https://charts.botkube.io/botkube-v1.9.1-rc.1.tgz
+    - https://dhalturin.github.io/botkube/botkube-v1.9.1-rc.1.tgz
     version: v1.9.1-rc.1
   - apiVersion: v1
     appVersion: v1.9.0
@@ -338,7 +338,7 @@ entries:
     sources:
     - https://github.com/kubeshop/botkube
     urls:
-    - https://charts.botkube.io/botkube-v1.9.0.tgz
+    - https://dhalturin.github.io/botkube/botkube-v1.9.0.tgz
     version: v1.9.0
   - apiVersion: v1
     appVersion: v1.9.0-rc.2
@@ -365,7 +365,7 @@ entries:
     sources:
     - https://github.com/kubeshop/botkube
     urls:
-    - https://charts.botkube.io/botkube-v1.9.0-rc.2.tgz
+    - https://dhalturin.github.io/botkube/botkube-v1.9.0-rc.2.tgz
     version: v1.9.0-rc.2
   - apiVersion: v1
     appVersion: v1.9.0-rc.1
@@ -392,7 +392,7 @@ entries:
     sources:
     - https://github.com/kubeshop/botkube
     urls:
-    - https://charts.botkube.io/botkube-v1.9.0-rc.1.tgz
+    - https://dhalturin.github.io/botkube/botkube-v1.9.0-rc.1.tgz
     version: v1.9.0-rc.1
   - apiVersion: v1
     appVersion: v1.8.0
@@ -419,7 +419,7 @@ entries:
     sources:
     - https://github.com/kubeshop/botkube
     urls:
-    - https://charts.botkube.io/botkube-v1.8.0.tgz
+    - https://dhalturin.github.io/botkube/botkube-v1.8.0.tgz
     version: v1.8.0
   - apiVersion: v1
     appVersion: v1.8.0-rc.1
@@ -446,7 +446,7 @@ entries:
     sources:
     - https://github.com/kubeshop/botkube
     urls:
-    - https://charts.botkube.io/botkube-v1.8.0-rc.1.tgz
+    - https://dhalturin.github.io/botkube/botkube-v1.8.0-rc.1.tgz
     version: v1.8.0-rc.1
   - apiVersion: v1
     appVersion: v1.7.0
@@ -473,7 +473,7 @@ entries:
     sources:
     - https://github.com/kubeshop/botkube
     urls:
-    - https://charts.botkube.io/botkube-v1.7.0.tgz
+    - https://dhalturin.github.io/botkube/botkube-v1.7.0.tgz
     version: v1.7.0
   - apiVersion: v1
     appVersion: v1.7.0-rc.1
@@ -500,7 +500,7 @@ entries:
     sources:
     - https://github.com/kubeshop/botkube
     urls:
-    - https://charts.botkube.io/botkube-v1.7.0-rc.1.tgz
+    - https://dhalturin.github.io/botkube/botkube-v1.7.0-rc.1.tgz
     version: v1.7.0-rc.1
   - apiVersion: v1
     appVersion: v1.6.0
@@ -527,7 +527,7 @@ entries:
     sources:
     - https://github.com/kubeshop/botkube
     urls:
-    - https://charts.botkube.io/botkube-v1.6.0.tgz
+    - https://dhalturin.github.io/botkube/botkube-v1.6.0.tgz
     version: v1.6.0
   - apiVersion: v1
     appVersion: v1.6.0-rc.2
@@ -554,7 +554,7 @@ entries:
     sources:
     - https://github.com/kubeshop/botkube
     urls:
-    - https://charts.botkube.io/botkube-v1.6.0-rc.2.tgz
+    - https://dhalturin.github.io/botkube/botkube-v1.6.0-rc.2.tgz
     version: v1.6.0-rc.2
   - apiVersion: v1
     appVersion: v1.6.0-rc.1
@@ -581,7 +581,7 @@ entries:
     sources:
     - https://github.com/kubeshop/botkube
     urls:
-    - https://charts.botkube.io/botkube-v1.6.0-rc.1.tgz
+    - https://dhalturin.github.io/botkube/botkube-v1.6.0-rc.1.tgz
     version: v1.6.0-rc.1
   - apiVersion: v1
     appVersion: v1.5.0
@@ -608,7 +608,7 @@ entries:
     sources:
     - https://github.com/kubeshop/botkube
     urls:
-    - https://charts.botkube.io/botkube-v1.5.0.tgz
+    - https://dhalturin.github.io/botkube/botkube-v1.5.0.tgz
     version: v1.5.0
   - apiVersion: v1
     appVersion: v1.5.0-rc.2
@@ -635,7 +635,7 @@ entries:
     sources:
     - https://github.com/kubeshop/botkube
     urls:
-    - https://charts.botkube.io/botkube-v1.5.0-rc.2.tgz
+    - https://dhalturin.github.io/botkube/botkube-v1.5.0-rc.2.tgz
     version: v1.5.0-rc.2
   - apiVersion: v1
     appVersion: v1.5.0-rc.1
@@ -662,7 +662,7 @@ entries:
     sources:
     - https://github.com/kubeshop/botkube
     urls:
-    - https://charts.botkube.io/botkube-v1.5.0-rc.1.tgz
+    - https://dhalturin.github.io/botkube/botkube-v1.5.0-rc.1.tgz
     version: v1.5.0-rc.1
   - apiVersion: v1
     appVersion: v1.4.1
@@ -689,7 +689,7 @@ entries:
     sources:
     - https://github.com/kubeshop/botkube
     urls:
-    - https://charts.botkube.io/botkube-v1.4.1.tgz
+    - https://dhalturin.github.io/botkube/botkube-v1.4.1.tgz
     version: v1.4.1
   - apiVersion: v1
     appVersion: v1.4.1-rc.1
@@ -716,7 +716,7 @@ entries:
     sources:
     - https://github.com/kubeshop/botkube
     urls:
-    - https://charts.botkube.io/botkube-v1.4.1-rc.1.tgz
+    - https://dhalturin.github.io/botkube/botkube-v1.4.1-rc.1.tgz
     version: v1.4.1-rc.1
   - apiVersion: v1
     appVersion: v1.4.0
@@ -743,7 +743,7 @@ entries:
     sources:
     - https://github.com/kubeshop/botkube
     urls:
-    - https://charts.botkube.io/botkube-v1.4.0.tgz
+    - https://dhalturin.github.io/botkube/botkube-v1.4.0.tgz
     version: v1.4.0
   - apiVersion: v1
     appVersion: v1.4.0-rc.3
@@ -770,7 +770,7 @@ entries:
     sources:
     - https://github.com/kubeshop/botkube
     urls:
-    - https://charts.botkube.io/botkube-v1.4.0-rc.3.tgz
+    - https://dhalturin.github.io/botkube/botkube-v1.4.0-rc.3.tgz
     version: v1.4.0-rc.3
   - apiVersion: v1
     appVersion: v1.4.0-rc.2
@@ -797,7 +797,7 @@ entries:
     sources:
     - https://github.com/kubeshop/botkube
     urls:
-    - https://charts.botkube.io/botkube-v1.4.0-rc.2.tgz
+    - https://dhalturin.github.io/botkube/botkube-v1.4.0-rc.2.tgz
     version: v1.4.0-rc.2
   - apiVersion: v1
     appVersion: v1.4.0-rc.1
@@ -824,7 +824,7 @@ entries:
     sources:
     - https://github.com/kubeshop/botkube
     urls:
-    - https://charts.botkube.io/botkube-v1.4.0-rc.1.tgz
+    - https://dhalturin.github.io/botkube/botkube-v1.4.0-rc.1.tgz
     version: v1.4.0-rc.1
   - apiVersion: v1
     appVersion: v1.3.0
@@ -851,7 +851,7 @@ entries:
     sources:
     - https://github.com/kubeshop/botkube
     urls:
-    - https://charts.botkube.io/botkube-v1.3.0.tgz
+    - https://dhalturin.github.io/botkube/botkube-v1.3.0.tgz
     version: v1.3.0
   - apiVersion: v1
     appVersion: v1.3.0-rc.2
@@ -878,7 +878,7 @@ entries:
     sources:
     - https://github.com/kubeshop/botkube
     urls:
-    - https://charts.botkube.io/botkube-v1.3.0-rc.2.tgz
+    - https://dhalturin.github.io/botkube/botkube-v1.3.0-rc.2.tgz
     version: v1.3.0-rc.2
   - apiVersion: v1
     appVersion: v1.3.0-rc.1
@@ -905,7 +905,7 @@ entries:
     sources:
     - https://github.com/kubeshop/botkube
     urls:
-    - https://charts.botkube.io/botkube-v1.3.0-rc.1.tgz
+    - https://dhalturin.github.io/botkube/botkube-v1.3.0-rc.1.tgz
     version: v1.3.0-rc.1
   - apiVersion: v1
     appVersion: v1.2.0
@@ -932,7 +932,7 @@ entries:
     sources:
     - https://github.com/kubeshop/botkube
     urls:
-    - https://charts.botkube.io/botkube-v1.2.0.tgz
+    - https://dhalturin.github.io/botkube/botkube-v1.2.0.tgz
     version: v1.2.0
   - apiVersion: v1
     appVersion: v1.2.0-rc.3
@@ -959,7 +959,7 @@ entries:
     sources:
     - https://github.com/kubeshop/botkube
     urls:
-    - https://charts.botkube.io/botkube-v1.2.0-rc.3.tgz
+    - https://dhalturin.github.io/botkube/botkube-v1.2.0-rc.3.tgz
     version: v1.2.0-rc.3
   - apiVersion: v1
     appVersion: v1.2.0-rc.2
@@ -986,7 +986,7 @@ entries:
     sources:
     - https://github.com/kubeshop/botkube
     urls:
-    - https://charts.botkube.io/botkube-v1.2.0-rc.2.tgz
+    - https://dhalturin.github.io/botkube/botkube-v1.2.0-rc.2.tgz
     version: v1.2.0-rc.2
   - apiVersion: v1
     appVersion: v1.2.0-rc.1
@@ -1013,7 +1013,7 @@ entries:
     sources:
     - https://github.com/kubeshop/botkube
     urls:
-    - https://charts.botkube.io/botkube-v1.2.0-rc.1.tgz
+    - https://dhalturin.github.io/botkube/botkube-v1.2.0-rc.1.tgz
     version: v1.2.0-rc.1
   - apiVersion: v1
     appVersion: v1.1.1
@@ -1040,7 +1040,7 @@ entries:
     sources:
     - https://github.com/kubeshop/botkube
     urls:
-    - https://charts.botkube.io/botkube-v1.1.1.tgz
+    - https://dhalturin.github.io/botkube/botkube-v1.1.1.tgz
     version: v1.1.1
   - apiVersion: v1
     appVersion: v1.1.1-rc.1
@@ -1067,7 +1067,7 @@ entries:
     sources:
     - https://github.com/kubeshop/botkube
     urls:
-    - https://charts.botkube.io/botkube-v1.1.1-rc.1.tgz
+    - https://dhalturin.github.io/botkube/botkube-v1.1.1-rc.1.tgz
     version: v1.1.1-rc.1
   - apiVersion: v1
     appVersion: v1.1.0
@@ -1094,7 +1094,7 @@ entries:
     sources:
     - https://github.com/kubeshop/botkube
     urls:
-    - https://charts.botkube.io/botkube-v1.1.0.tgz
+    - https://dhalturin.github.io/botkube/botkube-v1.1.0.tgz
     version: v1.1.0
   - apiVersion: v1
     appVersion: v1.1.0-rc.4
@@ -1121,7 +1121,7 @@ entries:
     sources:
     - https://github.com/kubeshop/botkube
     urls:
-    - https://charts.botkube.io/botkube-v1.1.0-rc.4.tgz
+    - https://dhalturin.github.io/botkube/botkube-v1.1.0-rc.4.tgz
     version: v1.1.0-rc.4
   - apiVersion: v1
     appVersion: v1.1.0-rc.3
@@ -1148,7 +1148,7 @@ entries:
     sources:
     - https://github.com/kubeshop/botkube
     urls:
-    - https://charts.botkube.io/botkube-v1.1.0-rc.3.tgz
+    - https://dhalturin.github.io/botkube/botkube-v1.1.0-rc.3.tgz
     version: v1.1.0-rc.3
   - apiVersion: v1
     appVersion: v1.1.0-rc.2
@@ -1175,7 +1175,7 @@ entries:
     sources:
     - https://github.com/kubeshop/botkube
     urls:
-    - https://charts.botkube.io/botkube-v1.1.0-rc.2.tgz
+    - https://dhalturin.github.io/botkube/botkube-v1.1.0-rc.2.tgz
     version: v1.1.0-rc.2
   - apiVersion: v1
     appVersion: v1.1.0-rc.1
@@ -1202,7 +1202,7 @@ entries:
     sources:
     - https://github.com/kubeshop/botkube
     urls:
-    - https://charts.botkube.io/botkube-v1.1.0-rc.1.tgz
+    - https://dhalturin.github.io/botkube/botkube-v1.1.0-rc.1.tgz
     version: v1.1.0-rc.1
   - apiVersion: v1
     appVersion: v1.0.1
@@ -1229,7 +1229,7 @@ entries:
     sources:
     - https://github.com/kubeshop/botkube
     urls:
-    - https://charts.botkube.io/botkube-v1.0.1.tgz
+    - https://dhalturin.github.io/botkube/botkube-v1.0.1.tgz
     version: v1.0.1
   - apiVersion: v1
     appVersion: v1.0.1-rc.2
@@ -1256,7 +1256,7 @@ entries:
     sources:
     - https://github.com/kubeshop/botkube
     urls:
-    - https://charts.botkube.io/botkube-v1.0.1-rc.2.tgz
+    - https://dhalturin.github.io/botkube/botkube-v1.0.1-rc.2.tgz
     version: v1.0.1-rc.2
   - apiVersion: v1
     appVersion: v1.0.1-rc.1
@@ -1283,7 +1283,7 @@ entries:
     sources:
     - https://github.com/kubeshop/botkube
     urls:
-    - https://charts.botkube.io/botkube-v1.0.1-rc.1.tgz
+    - https://dhalturin.github.io/botkube/botkube-v1.0.1-rc.1.tgz
     version: v1.0.1-rc.1
   - apiVersion: v1
     appVersion: v1.0.0
@@ -1310,7 +1310,7 @@ entries:
     sources:
     - https://github.com/kubeshop/botkube
     urls:
-    - https://charts.botkube.io/botkube-v1.0.0.tgz
+    - https://dhalturin.github.io/botkube/botkube-v1.0.0.tgz
     version: v1.0.0
   - apiVersion: v1
     appVersion: v1.0.0-rc.2
@@ -1337,7 +1337,7 @@ entries:
     sources:
     - https://github.com/kubeshop/botkube
     urls:
-    - https://charts.botkube.io/botkube-v1.0.0-rc.2.tgz
+    - https://dhalturin.github.io/botkube/botkube-v1.0.0-rc.2.tgz
     version: v1.0.0-rc.2
   - apiVersion: v1
     appVersion: v1.0.0-rc.1
@@ -1364,7 +1364,7 @@ entries:
     sources:
     - https://github.com/kubeshop/botkube
     urls:
-    - https://charts.botkube.io/botkube-v1.0.0-rc.1.tgz
+    - https://dhalturin.github.io/botkube/botkube-v1.0.0-rc.1.tgz
     version: v1.0.0-rc.1
   - apiVersion: v1
     appVersion: v0.18.0
@@ -1391,7 +1391,7 @@ entries:
     sources:
     - https://github.com/kubeshop/botkube
     urls:
-    - https://charts.botkube.io/botkube-v0.18.0.tgz
+    - https://dhalturin.github.io/botkube/botkube-v0.18.0.tgz
     version: v0.18.0
   - apiVersion: v1
     appVersion: v0.18.0-rc.3
@@ -1418,7 +1418,7 @@ entries:
     sources:
     - https://github.com/kubeshop/botkube
     urls:
-    - https://charts.botkube.io/botkube-v0.18.0-rc.3.tgz
+    - https://dhalturin.github.io/botkube/botkube-v0.18.0-rc.3.tgz
     version: v0.18.0-rc.3
   - apiVersion: v1
     appVersion: v0.18.0-rc.2
@@ -1445,7 +1445,7 @@ entries:
     sources:
     - https://github.com/kubeshop/botkube
     urls:
-    - https://charts.botkube.io/botkube-v0.18.0-rc.2.tgz
+    - https://dhalturin.github.io/botkube/botkube-v0.18.0-rc.2.tgz
     version: v0.18.0-rc.2
   - apiVersion: v1
     appVersion: v0.18.0-rc.1
@@ -1472,7 +1472,7 @@ entries:
     sources:
     - https://github.com/kubeshop/botkube
     urls:
-    - https://charts.botkube.io/botkube-v0.18.0-rc.1.tgz
+    - https://dhalturin.github.io/botkube/botkube-v0.18.0-rc.1.tgz
     version: v0.18.0-rc.1
   - apiVersion: v1
     appVersion: v0.17.0
@@ -1499,7 +1499,7 @@ entries:
     sources:
     - https://github.com/kubeshop/botkube
     urls:
-    - https://charts.botkube.io/botkube-v0.17.0.tgz
+    - https://dhalturin.github.io/botkube/botkube-v0.17.0.tgz
     version: v0.17.0
   - apiVersion: v1
     appVersion: v0.17.0-rc.3
@@ -1526,7 +1526,7 @@ entries:
     sources:
     - https://github.com/kubeshop/botkube
     urls:
-    - https://charts.botkube.io/botkube-v0.17.0-rc.3.tgz
+    - https://dhalturin.github.io/botkube/botkube-v0.17.0-rc.3.tgz
     version: v0.17.0-rc.3
   - apiVersion: v1
     appVersion: v0.17.0-rc.2
@@ -1553,7 +1553,7 @@ entries:
     sources:
     - https://github.com/kubeshop/botkube
     urls:
-    - https://charts.botkube.io/botkube-v0.17.0-rc.2.tgz
+    - https://dhalturin.github.io/botkube/botkube-v0.17.0-rc.2.tgz
     version: v0.17.0-rc.2
   - apiVersion: v1
     appVersion: v0.17.0-rc.1
@@ -1580,7 +1580,7 @@ entries:
     sources:
     - https://github.com/kubeshop/botkube
     urls:
-    - https://charts.botkube.io/botkube-v0.17.0-rc.1.tgz
+    - https://dhalturin.github.io/botkube/botkube-v0.17.0-rc.1.tgz
     version: v0.17.0-rc.1
   - apiVersion: v1
     appVersion: v0.16.0
@@ -1607,7 +1607,7 @@ entries:
     sources:
     - https://github.com/kubeshop/botkube
     urls:
-    - https://charts.botkube.io/botkube-v0.16.0.tgz
+    - https://dhalturin.github.io/botkube/botkube-v0.16.0.tgz
     version: v0.16.0
   - apiVersion: v1
     appVersion: v0.16.0-rc.1
@@ -1634,7 +1634,7 @@ entries:
     sources:
     - https://github.com/kubeshop/botkube
     urls:
-    - https://charts.botkube.io/botkube-v0.16.0-rc.1.tgz
+    - https://dhalturin.github.io/botkube/botkube-v0.16.0-rc.1.tgz
     version: v0.16.0-rc.1
   - apiVersion: v1
     appVersion: v0.15.0
@@ -1661,7 +1661,7 @@ entries:
     sources:
     - https://github.com/kubeshop/botkube
     urls:
-    - https://charts.botkube.io/botkube-v0.15.0.tgz
+    - https://dhalturin.github.io/botkube/botkube-v0.15.0.tgz
     version: v0.15.0
   - apiVersion: v1
     appVersion: v0.15.0-rc.2
@@ -1688,7 +1688,7 @@ entries:
     sources:
     - https://github.com/kubeshop/botkube
     urls:
-    - https://charts.botkube.io/botkube-v0.15.0-rc.2.tgz
+    - https://dhalturin.github.io/botkube/botkube-v0.15.0-rc.2.tgz
     version: v0.15.0-rc.2
   - apiVersion: v1
     appVersion: v0.15.0-rc.1
@@ -1715,7 +1715,7 @@ entries:
     sources:
     - https://github.com/kubeshop/botkube
     urls:
-    - https://charts.botkube.io/botkube-v0.15.0-rc.1.tgz
+    - https://dhalturin.github.io/botkube/botkube-v0.15.0-rc.1.tgz
     version: v0.15.0-rc.1
   - apiVersion: v1
     appVersion: v0.14.0
@@ -1742,7 +1742,7 @@ entries:
     sources:
     - https://github.com/kubeshop/botkube
     urls:
-    - https://charts.botkube.io/botkube-v0.14.0.tgz
+    - https://dhalturin.github.io/botkube/botkube-v0.14.0.tgz
     version: v0.14.0
   - apiVersion: v1
     appVersion: v0.14.0-rc.2
@@ -1769,7 +1769,7 @@ entries:
     sources:
     - https://github.com/kubeshop/botkube
     urls:
-    - https://charts.botkube.io/botkube-v0.14.0-rc.2.tgz
+    - https://dhalturin.github.io/botkube/botkube-v0.14.0-rc.2.tgz
     version: v0.14.0-rc.2
   - apiVersion: v1
     appVersion: v0.14.0-rc.1
@@ -1796,7 +1796,7 @@ entries:
     sources:
     - https://github.com/kubeshop/botkube
     urls:
-    - https://charts.botkube.io/botkube-v0.14.0-rc.1.tgz
+    - https://dhalturin.github.io/botkube/botkube-v0.14.0-rc.1.tgz
     version: v0.14.0-rc.1
   - apiVersion: v1
     appVersion: v0.13.0
@@ -1823,7 +1823,7 @@ entries:
     sources:
     - https://github.com/kubeshop/botkube
     urls:
-    - https://charts.botkube.io/botkube-v0.13.0.tgz
+    - https://dhalturin.github.io/botkube/botkube-v0.13.0.tgz
     version: v0.13.0
   - apiVersion: v1
     appVersion: v0.13.0-rc.1
@@ -1850,7 +1850,7 @@ entries:
     sources:
     - https://github.com/kubeshop/botkube
     urls:
-    - https://charts.botkube.io/botkube-v0.13.0-rc.1.tgz
+    - https://dhalturin.github.io/botkube/botkube-v0.13.0-rc.1.tgz
     version: v0.13.0-rc.1
   - apiVersion: v1
     appVersion: v0.12.4
@@ -1877,6 +1877,6 @@ entries:
     sources:
     - https://github.com/kubeshop/botkube
     urls:
-    - https://charts.botkube.io/botkube-v0.12.4.tgz
+    - https://dhalturin.github.io/botkube/botkube-v0.12.4.tgz
     version: v0.12.4
 generated: "2024-11-13T11:46:19.932507714Z"
